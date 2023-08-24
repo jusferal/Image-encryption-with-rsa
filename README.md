@@ -1,1 +1,4 @@
-# Image-encryption-with-rsa
+# Image encryption with rsa
+
+## Technologies
+* Python
