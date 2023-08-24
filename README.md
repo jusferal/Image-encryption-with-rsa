@@ -2,3 +2,4 @@
 
 ## Technologies
 * Python
+* Opencv
