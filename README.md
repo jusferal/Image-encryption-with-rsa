@@ -12,14 +12,13 @@ This project focuses on providing a solution for encrypting images in JPG format
 
 4. **Image Decryption**: To recover the original image, the public key is used to decrypt the previously encrypted pixels. This process results in the decrypted image.
 
-## Additional Feature: Calculate Similarity
+## Additional Function: Calculate Similarity
 
 In addition to encryption and decryption, an extra function to calculate the similarity percentage has been implemented. This function allows evaluating the similarity between the original image and the encrypted image, as well as the decrypted image with the original one. This feature is valuable for checking the effectiveness of the encryption and decryption process.
 
 
 ## Technologies
 * Python
-* Opencv
 
 ## Creators
 [@jusferal](https://github.com/jusferal)
